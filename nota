@@ -1,0 +1,16 @@
+  <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <h1 class="text-primary">
+                    Aqui será meu Portifólio online. +
+                </h1>
+            </div>
+        </div>
+    </div>
+
+
+    <div class="row">
+        <div class="col-12 col-sm-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Incidunt voluptates totam porro rerum rem iusto saepe optio recusandae autem deleniti quod minima neque minus, aliquam, molestiae officia ea. Ut, labore.</div>
+        <div class="col-12 col-sm-4">Ipsum beatae quo officia incidunt ex pariatur placeat. Voluptate impedit accusantium dolore expedita a molestiae consequuntur ut. Amet facere ullam adipisci iste reiciendis, tempora facilis eveniet dignissimos illo. Illum, itaque?</div>
+        <div class="col-12 col-sm-4">Soluta, voluptatum. Non quo totam id, nulla numquam architecto cumque possimus laudantium accusantium aut et quibusdam iusto? Quos obcaecati necessitatibus quibusdam delectus accusantium voluptates odio sapiente, voluptatum vel similique quis!</div>
+    </div>
