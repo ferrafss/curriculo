@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Cuprum&family=Dosis:wght@300&family=Lobster&display=swap');
+
+
 .banner {
     background: url('../css/img/background.jpg');
     background-position: center;
@@ -12,11 +15,50 @@
 }
 
 
+.myName{
+    font-family: 'Dosis', sans-serif;
+    font-size: 4rem;
+    color: #fff;
+    font-weight: 600;
+}
+
+.habilidades{
+    background-color: rgb(198, 167, 228);
+    font-family:'Lobster', cursive;
+    font-size: 3rem;
+    color: rgb(83, 0, 161);
+}
+
+.historico{
+    background-color: rgb(198, 167, 228);
+    font-family:'Lobster', cursive;
+    font-size: 3rem;
+    color: rgb(83, 0, 161);
+}
+
+.lista li{
+    font-family: 'Cuprum', sans-serif;
+    font-size: 2rem;
+    color: rgb(44, 1, 83);
+}
+
+
+
 @media (max-width: 576px) {
     .banner {
         background-position: right;
         height: 100vh;
     }
+    .perfil{
+        height: 100%;
+    }
+    .myName{
+        font-family: 'Dosis', sans-serif;
+        font-size: 4rem;
+        color: #fff;
+        font-weight: 600;
+    }
+    
 }
 
 @media (max-width: 768px) {}
