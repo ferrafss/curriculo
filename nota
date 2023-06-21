@@ -14,3 +14,13 @@
         <div class="col-12 col-sm-4">Ipsum beatae quo officia incidunt ex pariatur placeat. Voluptate impedit accusantium dolore expedita a molestiae consequuntur ut. Amet facere ullam adipisci iste reiciendis, tempora facilis eveniet dignissimos illo. Illum, itaque?</div>
         <div class="col-12 col-sm-4">Soluta, voluptatum. Non quo totam id, nulla numquam architecto cumque possimus laudantium accusantium aut et quibusdam iusto? Quos obcaecati necessitatibus quibusdam delectus accusantium voluptates odio sapiente, voluptatum vel similique quis!</div>
     </div>
+
+
+
+    <ul class="list-group">
+        <li class="list-group-item disabled" aria-disabled="true">A disabled item</li>
+        <li class="list-group-item">A second item</li>
+        <li class="list-group-item">A third item</li>
+        <li class="list-group-item">A fourth item</li>
+        <li class="list-group-item">And a fifth one</li>
+      </ul>

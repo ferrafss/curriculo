@@ -23,23 +23,31 @@
 }
 
 .habilidades{
-    background-color: rgb(198, 167, 228);
     font-family:'Lobster', cursive;
     font-size: 3rem;
     color: rgb(83, 0, 161);
+    text-decoration: underline;
 }
+
+.hab{
+    font-family: 'Dosis', sans-serif;
+    font-size: 1.5rem;
+    color: #2b0064;
+    font-weight: 600; 
+}
+
+
 
 .historico{
-    background-color: rgb(198, 167, 228);
+   
     font-family:'Lobster', cursive;
     font-size: 3rem;
     color: rgb(83, 0, 161);
+    text-decoration: underline;
 }
 
-.lista li{
-    font-family: 'Cuprum', sans-serif;
-    font-size: 2rem;
-    color: rgb(44, 1, 83);
+.progress-bar{
+    background-color:rgb(129, 90, 165):
 }
 
 
@@ -47,7 +55,7 @@
 @media (max-width: 576px) {
     .banner {
         background-position: right;
-        height: 100vh;
+        height: 70vh;
     }
     .perfil{
         height: 100%;
